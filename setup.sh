@@ -3,6 +3,9 @@
 apt install open-vm-tools-desktop
 apt install open-vm-tools
 
+# Configure TMUX color
+set -g status-bg colour240
+
 # Configure Terminal to my liking. Node: Need to change this later!
 gsettings set org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/<PROFILE_ID>/ background-color '#000000'
 gsettings set org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/<PROFILE_ID>/ foreground-color '#FFFFFF'
