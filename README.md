@@ -1,4 +1,4 @@
-## New automatation setup for ubuntu
+## New automatation setup for Kali
 
 Tired of setting up a new VM from scratch every few months.
 
